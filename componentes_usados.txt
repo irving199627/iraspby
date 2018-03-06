@@ -1,0 +1,6 @@
+- Raspberry pi 3 model B
+- micro SD de 16GB clase 10
+- modulo de 8 relevadores
+- bombillos 110/220v
+- webcam Logitech C160
+- cables
