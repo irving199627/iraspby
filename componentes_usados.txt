@@ -4,3 +4,4 @@
 - bombillos 110/220v
 - webcam Logitech C160
 - cables
+- Sensor Piroelectrico
