@@ -282,10 +282,6 @@ def command_text(m):
         elif (m.text.lower() in ['adios', 'aios', 'adeu', 'ciao']):
             bot.send_message(cid, 'Hasta luego, ' + str(m.from_user.first_name) + '. Te echarÃ© de menos.',
                              parse_mode="Markdown")
-        elif (m.text.lower() in ['jodete', 'puto']):
-            bot.send_message(cid, 'TÃº tambien ' + str(m.from_user.first_name) + ' :v')
-        elif (m.text.lower() in ['enciende', 'funciona']):
-            bot.send_message(cid, 'No quiero ' + str(m.from_user.first_name) + ' >:v')
 
 print 'Corriendo...'
 bot.polling(none_stop=True)
